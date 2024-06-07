@@ -6,8 +6,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Welcome industry insiders",
-            "text_style": "caption-with-letter-spacing"
+            "text": "Welcome to your B2B portal!",
+            "text_style": "subtitle"
           }
         },
         "heading": {
@@ -35,6 +35,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/share_image_1200x630_324b6627-b8b8-4e6e-ae1d-a64d4c993030.png",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "desktop_content_position": "middle-left",
