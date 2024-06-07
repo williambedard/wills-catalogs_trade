@@ -35,7 +35,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "desktop_content_position": "middle-left",
